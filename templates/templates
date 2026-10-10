@@ -1,0 +1,6 @@
+myproject/
+├── myapp/
+├── media/
+├── templates/
+        └── home.html
+		└── base.html
